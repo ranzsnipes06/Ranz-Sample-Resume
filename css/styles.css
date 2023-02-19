@@ -1,0 +1,304 @@
+body{
+    background-color: bisque;
+    background-image: url(35077408_10209459558965951_8024155535030878208_n.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img-ranz{
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+.img-background{
+    position: relative;
+    float: right;
+    width: 450px;
+    height: 800px;
+    margin: 1px;
+}
+.name{
+    display: inline-block;
+    padding: 1%;
+    max-width: 60%;
+}
+/* ------------------------start of line -----------------------------*/
+.line1{
+    width: 100%;
+    height: 2px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-bottom: 5%;
+}
+
+.line2{
+    width: 100%;
+    height: 3px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-top: -1%;    
+}
+.line3{
+    width: 100%;
+    height: 2px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-bottom: 3%;
+}
+.line4{
+    width: 100%;
+    height: 2px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-top: -1%; 
+}
+.line5{
+    width: 100%;
+    height: 2px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-top: 1%; 
+    margin-bottom: 3%;
+}
+.line6{
+    width: 100%;
+    height: 3px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    margin-top: -1%; 
+}
+/* ------------------------end of line -----------------------------*/
+.html{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.star1{
+    width: 15px;
+    height: 15px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.css{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.star2{
+    width: 15px;
+    height: 15px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.java{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.star3{
+    width: 15px;
+    height: 15px;
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: 2%;
+}
+.position{
+    font-size: 30px;
+    text-decoration: underline;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.establishment{
+    font-size: 30px;
+    text-decoration: underline;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 1%;
+    margin-bottom: 1%; 
+} 
+.year{
+    font-size: 30px;
+    text-decoration: underline;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.it-specialist{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.pcic{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 9%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.year1{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.ca{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.lbc{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 25%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.year2{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.jr{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 3%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.laptap{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 21%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.year3{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.mis{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.cmpc{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 24%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.year4{
+    font-size: 20px;
+    overflow: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
